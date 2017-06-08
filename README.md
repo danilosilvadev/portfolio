@@ -4,6 +4,10 @@
 
 ## Bio:
 
+> My name is Danilo Silva, i'am a java developer but i also like js, node, react and team management.
+
+### Skills:
+
 ## Main repositories:
 
 Projetos | Tecnologias
