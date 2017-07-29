@@ -26,7 +26,7 @@ Gists | Tech
 
 Projects that i help | Tech
 ---- | ----
-[List of projects of coders fom CT](https://github.com/training-center/divertidalista) | Markdown
+[List of projects of coders from CT](https://github.com/training-center/divertidalista) | Markdown
 [Code-houses(Share house with other coder)](https://github.com/training-center/code-house) | Markdown
 
 
