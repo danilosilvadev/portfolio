@@ -10,7 +10,7 @@
 
 ## Main repositories:
 
-Projects | Tech
+Studies | Tech
 ---- | ----
 [How to learn java alone - links reference](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
 [data structures - samples](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
@@ -29,4 +29,8 @@ Projects that i help | Tech
 [List of projects of coders from CT](https://github.com/training-center/divertidalista) | Markdown
 [Code-houses(Share house with other coder)](https://github.com/training-center/code-house) | Markdown
 
+Projects | Tech
+---- | ----
+[Cidadão starter pack](https://github.com/danilosilvadev/cidadao-starter-pack) | JS+react+webpack = S2
+[Cidadão starter pack - backend](https://github.com/danilosilvadev/csp-backend) | nodeJS
 
