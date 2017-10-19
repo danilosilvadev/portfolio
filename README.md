@@ -4,7 +4,7 @@
 
 ## Bio:
 
-> My name is Danilo Silva, i'am a java developer but i also like js, node, react and team management.
+> My name is Danilo Silva, i'am a frontend developer.
 
 ### Skills:
 
