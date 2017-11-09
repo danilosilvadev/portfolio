@@ -36,11 +36,8 @@ Projects that i help | Tech
 [Code-houses(Share house with other coder)](https://github.com/training-center/code-house) | Markdown
 
 Main posts in my blog:
-
+---- | ----
 [A tale about 'closures' - JS](https://medium.com/@danilosilvadev/a-tale-about-closures-js-58f5037b712d).
-
 [The JS for()wer rangers](https://medium.com/@danilosilvadev/the-js-for-wer-rangers-never-more-use-the-classic-for-loop-de9f054014c3).
-
 [Webpack config in 3 min](https://medium.com/@danilosilvadev/webpack-react-karma-router-babel-modules-in-3-minutes-72b3e7ed3f85).
-
 [The four tests of 'this' in js](https://medium.com/@danilosilvadev/the-four-tests-of-this-in-js-technique-88a26346611c).
