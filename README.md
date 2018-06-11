@@ -23,6 +23,7 @@ Studies | Tech
 [Material design and more](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
 [Guide for team management](https://github.com/NogoApps/workflow) | Markdown
 [React samples](https://github.com/danilosilvadev/react-learning) | Javascript
+[Products page with wishlist](https://bitbucket.org/danilosilvadev/lojaskd/src/master/) | React+redux
 
 Gists | Tech
 ---- | ----
