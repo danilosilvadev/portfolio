@@ -12,10 +12,11 @@
 
 Projects | Tech
 ---- | ----
-[Cidadão starter pack](https://github.com/danilosilvadev/cidadao-starter-pack) | JS+react+webpack = S2
+[Cidadão starter pack](https://github.com/danilosilvadev/cidadao-starter-pack) | JS + react + webpack = S2
 [Cidadão starter pack - backend](https://github.com/danilosilvadev/csp-backend) | nodeJS
 [howToMakeAPortfolio](https://github.com/danilosilvadev/devJR-portfolio-starter) | MD/JS
-[Paypal checkout APP](https://github.com/danilosilvadev/create-react-app-paypal-checkout) | react+nodejs
+[Paypal checkout APP](https://github.com/danilosilvadev/create-react-app-paypal-checkout) | react + nodejs
+[Titanic data science challenge from kaggle](https://github.com/danilosilvadev/titanic_ML) | python + jupyter notebook
 
 Studies | Tech
 ---- | ----
@@ -36,7 +37,7 @@ Projects that i help | Tech
 ---- | ----
 [List of projects of coders from CT](https://github.com/training-center/divertidalista) | Markdown
 [Code-houses(Share house with other coder)](https://github.com/training-center/code-house) | Markdown
-[Hackacenter](https://github.com/training-center/hackathon) | html+css grid
+[Hackacenter](https://github.com/training-center/hackathon) | html + css grid
 
 Main posts in my blog | Tech
 ---- | ----
