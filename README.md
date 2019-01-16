@@ -12,7 +12,7 @@
 
 Projects | Tech
 ---- | ----
-[rxreactjs - A simple alternative to redux using only 2 functions.](https://github.com/danilosilvadev/rxreactjs) | react + rxjs + jest
+[rxreactjs - A simple alternative to redux using only 2 functions](https://github.com/danilosilvadev/rxreactjs) | react + rxjs + jest
 [Cidadão starter pack](https://github.com/danilosilvadev/cidadao-starter-pack) | JS + react + webpack = S2
 [Cidadão starter pack - backend](https://github.com/danilosilvadev/csp-backend) | nodeJS
 [howToMakeAPortfolio](https://github.com/danilosilvadev/devJR-portfolio-starter) | MD/JS
