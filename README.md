@@ -12,11 +12,14 @@
 
 Projects | Tech
 ---- | ----
+[rxreactjs - A simple alternative to redux using only 2 functions.](https://github.com/danilosilvadev/rxreactjs) | react + rxjs + jest
 [Cidadão starter pack](https://github.com/danilosilvadev/cidadao-starter-pack) | JS + react + webpack = S2
 [Cidadão starter pack - backend](https://github.com/danilosilvadev/csp-backend) | nodeJS
 [howToMakeAPortfolio](https://github.com/danilosilvadev/devJR-portfolio-starter) | MD/JS
 [Paypal checkout APP](https://github.com/danilosilvadev/create-react-app-paypal-checkout) | react + nodejs
 [Titanic data science challenge from kaggle](https://github.com/danilosilvadev/titanic_ML) | python + jupyter notebook
+[Products page with wishlist](https://bitbucket.org/danilosilvadev/lojaskd/src/master/) | react + redux
+[Stream dinamic site similar to netflix page with a serie with episodes and seasons](https://bitbucket.org/danilosilvadev/agile_test/src) | react + jest
 
 Studies | Tech
 ---- | ----
@@ -25,7 +28,6 @@ Studies | Tech
 [Material design and more](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
 [Guide for team management](https://github.com/NogoApps/workflow) | Markdown
 [React samples](https://github.com/danilosilvadev/react-learning) | Javascript
-[Products page with wishlist](https://bitbucket.org/danilosilvadev/lojaskd/src/master/) | React+redux
 
 Gists | Tech
 ---- | ----
